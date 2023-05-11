@@ -1,5 +1,5 @@
 <div align= "center">
- <h1 align = "center"> Hii, hope you are having a wonderful day, I'm Sebastian 👋🏾👨🏾‍💻>
+ <h1 align = "center"> Hii, hope you are having a wonderful day, I'm Sebastian 👋🏾👨🏾‍💻
  </div>
  
  <img src = "https://github.com/SebastianCast04/SebastianCast04/assets/86673605/8b72d867-37fc-419f-9ba2-5ed2a4fa9fed">
