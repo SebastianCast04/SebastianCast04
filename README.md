@@ -6,7 +6,7 @@
  
  ## About me
  
- - 📱Jr Android Developer
+ - 📱 Android Developer
  - 📚 Currently studying last semester of software engineering
   
   
