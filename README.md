@@ -6,8 +6,8 @@
  
  ## About me
  
- - 📱 Android Developer
- - 📚 Currently studying 8th semester of software engineering
+ - 📱 Android Developer Engineer
+
   
   
 <h3 align="left">Languages and Tools:</h3>
